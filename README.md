@@ -27,11 +27,8 @@
 <h3 align="left">Stats</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BSNIKYT&label=Profile%20views&color=0e75b6&style=flat" alt="abova29" /> </p>
-
-
-
-
-
+<a href="https://discord.gg/4WKjy5gdBP">
+<img src="https://discordapp.com/api/guilds/937054150171197460/embed.png" alt="Discord" /></a>
 
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSNIKYT&theme=solarized_dark)
