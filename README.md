@@ -7,4 +7,4 @@
    
   ![Counter](https://moe-counter.glitch.me/get/@S-MpAI?theme=rule34)
 </div>
-<a href="https://discord.gg/4WKjy5gdBP">
+<p align="center"> <img src="https://wakatime.com/share/@SeMPaI/2f812195-855b-47a7-a90a-52bf8e57884e.svg" /> </p>
